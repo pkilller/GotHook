@@ -1,2 +1,2 @@
 # GotHook
-**A GOT Hooker for android elf. **
+**A GOT hooker for android elf. **
