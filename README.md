@@ -1,2 +1,2 @@
 # GotHook
-**A GOT Hooker for 32bit-ELF. **
+**A GOT Hooker for android elf. **
